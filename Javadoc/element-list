@@ -1,0 +1,10 @@
+unnamed package
+Business
+Business.ConfigDatabase
+Business.ConfigDatabase.GestionJSON
+Business.Entities
+Persistance.dao
+Persistance.sql
+Presentation.Controllers
+Presentation.Views
+SupportClasses
