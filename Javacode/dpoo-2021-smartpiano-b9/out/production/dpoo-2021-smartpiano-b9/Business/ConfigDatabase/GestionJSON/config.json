@@ -1,0 +1,8 @@
+{
+  "port": 3306,
+  "ip": "127.0.0.1",
+  "name": "SmartPianoDDBB",
+  "user": "root",
+  "password": "SmartPiano9",
+  "time": 5
+}
